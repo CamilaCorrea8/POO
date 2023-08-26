@@ -11,6 +11,6 @@ package com.mycompany.ejercicio05;
 public class Ejercicio05 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola mundo");
     }
 }
