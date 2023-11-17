@@ -105,7 +105,7 @@ public class VentanaPiramide extends javax.swing.JFrame {
     }//GEN-LAST:event_txtAlturaActionPerformed
 
     private void btnCalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCalcularActionPerformed
-        Pirámide piramide1 = new Pirámide(Double.parseDouble(txtBase.getText()), 
+        Piramide piramide1 = new Piramide(Double.parseDouble(txtBase.getText()), 
                 Double.parseDouble(txtAltura.getText()), Double.parseDouble(txtApotema.getText()));
         
         piramide1.calcularVolumen();
