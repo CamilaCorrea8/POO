@@ -1,5 +1,5 @@
 
-package entrega_6;
+package Actividad6;
 
 /**
  *

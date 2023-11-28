@@ -1,4 +1,4 @@
-package entrega_6;
+package Actividad6;
 import java.io.File;
 import java.io.IOException;
 import java.io.RandomAccessFile;
